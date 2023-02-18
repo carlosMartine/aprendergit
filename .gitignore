@@ -1,0 +1,3 @@
+# archivos o rutas para que no vayan al repositorio
+.env
+node_modules/
